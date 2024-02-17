@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo 'Rebasing isn't allowed in this repos
+
+exit 1
